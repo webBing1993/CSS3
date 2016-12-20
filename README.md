@@ -1,5 +1,4 @@
-# CSS3
-css3
+
   @keyframes rotate {
             0% {transform: rotate(0deg)}
             18.7% {transform: rotateY(60deg)}
